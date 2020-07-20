@@ -2,3 +2,4 @@ name: CratesPlusLoader
 version: @version@
 main: com.github.mori01231.cratesplusloader.CratesPlusLoader
 depend: [MythicMobs]
+description: Loads cratesplus on startup. Workaround for CratesPlus bug in Minecraft 1.15.2.
