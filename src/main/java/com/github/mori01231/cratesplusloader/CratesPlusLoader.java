@@ -6,7 +6,7 @@ public final class CratesPlusLoader extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        // Reloads CratesPlus
         getServer().dispatchCommand(getServer().getConsoleSender(), "plugman reload CratesPlus");
     }
 
